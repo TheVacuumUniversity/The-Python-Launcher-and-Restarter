@@ -5,3 +5,4 @@ I have already achieved to create script that will check for defined errors, in 
 
 What I would need is to create a master file which will run two processes at the same time (multiprocessing). One process would be calling the excel macro, the second would check for errors and pontentially kill the excel. It could then send message to the master file that there was an error and the master file would restart the excel macro.
 
+...
